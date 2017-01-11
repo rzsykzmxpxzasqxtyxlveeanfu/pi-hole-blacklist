@@ -1885,6 +1885,7 @@ caneer.com
 caniamedia.com
 canuck-method.com
 capitalchips.com
+capping.mgid.com
 caradvertisement.com
 caradvertisements.com
 carbonads.com
@@ -2238,6 +2239,7 @@ constructaca.com
 constructaco.com
 constructoca.com
 constructoco.com
+consumer-metrics-1045650408.us-east-1.elb.amazonaws.com
 contactlock.com
 contactpublic.com
 containerapt.com
@@ -4297,6 +4299,7 @@ iisip.com
 ijamaican.com
 ijqs.com
 ijunc.com
+ikea.com.122.2o7.net
 ilbanner.com
 ilead.itrack.it
 ilovecheating.com
@@ -4336,6 +4339,7 @@ imagine-windowslive.com.br
 imagine-wl.com.br
 imarketservices.com
 img1.iol.it
+imgg-cdn.mgid.com
 img.prohardver.hu
 imonitor.mkt.cz
 imprese.cz
@@ -7055,6 +7059,7 @@ rzih.com
 rzik.com
 rzpz.com
 rzsu.com
+s03.tcuniverse.com
 s10.whatsapp.net
 s1.googleusercontent.com
 s1.ry.m1r2.onet.pl
@@ -7213,6 +7218,7 @@ searchmarketing.com
 searchperks.com
 searchramp.com
 searchv.com
+seccdn-gl.imrworldwide.com
 secretosx.com
 sectordomain.com
 secure.eagletribune.com
@@ -7256,6 +7262,7 @@ servethis.com
 service.bfast.com
 serviceden.com
 servicepod.com
+servicer.mgid.com
 services.google.com
 serving-sys.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
@@ -7741,6 +7748,7 @@ tableassist.com
 tabloidetc.com
 tabloidism.com
 tacoda.net
+tags.wdc.bluekai.com
 tagular.com
 tailsweep.com
 tailsweep.co.uk
@@ -9011,6 +9019,7 @@ zflat.com
 zgiant.com
 zh-cn.facebook.com
 zickclick.com
+ziffdavis697674298673.moatads.com
 zillla.com
 zintext.com
 zipfreak.com
