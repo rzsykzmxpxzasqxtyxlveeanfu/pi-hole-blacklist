@@ -1310,6 +1310,7 @@ amazonadserver.com
 amdof.com
 a.medialytics.com
 americanadvertisement.com
+amonsul.betssonpalantir.com
 ampter.com
 ams1-mobile.adnxs.com
 a-msedge.net
@@ -1843,6 +1844,7 @@ browserchannel-spreadsheets.l.google.com
 browsersync.google.com
 browsersync.l.google.com
 b.scorecardresearch.com
+b.scorecardresearch.com.edgesuite.net
 b.static.ak.facebook.com
 b.static.ak.fbcdn.net
 bs.yandex.ru
@@ -1864,6 +1866,7 @@ buttons.googlesyndication.com
 buyermain.com
 buyersys.com
 buyhitscheap.com
+buy.itunes.apple.com
 buysellads.com
 buyselltradeswap.com
 buysub.com
@@ -1919,7 +1922,6 @@ caniamedia.com
 canuck-method.com
 capitalchips.com
 capping.mgid.com
-captive.apple.com
 caradvertisement.com
 caradvertisements.com
 carbonads.com
@@ -1946,6 +1948,7 @@ casinotreasure.com
 caspowa.com
 casual69.com
 catalog.lexcycle.com
+catawiki.widgettoolbox.net
 catchcaller.com
 cav3.com
 cben1.net
@@ -2279,6 +2282,7 @@ conceptsa.com
 condoetc.com
 config.ngmoco.com
 configuration.apple.com
+configuration.apple.com.edgekey.net
 confirmed-profits.com
 connect.facebook.com
 connect.facebook.net
@@ -2384,6 +2388,7 @@ crypto-option.com
 cryptoption.com
 cs123.adn.edgecastcdn.net
 cs77.wac.edgecastcdn.net
+cs9.wac.phicdn.net
 csi.gstatic.com
 csi.l.google.com
 ct-m-fbx.fbsbx.com
@@ -3727,6 +3732,7 @@ freelogs.com
 freeonlineusers.com
 freepay.com
 freepowerpoint.com
+free.sharedcount.com
 freestat.pl
 freestats.tv
 freett.com
@@ -3806,6 +3812,7 @@ geoadserver.com
 geoadvertisements.com
 geoauth.google.com
 geobanner.adultfriendfinder.com
+geo.kaloo.ga
 geotrust.com
 geovisite.com
 getadvertisement.com
@@ -4751,6 +4758,7 @@ kim.ns.cloudflare.com
 kinja.com
 kinkb.com
 kinobox.cz
+k.intellitxt.com
 kinxcdn.com
 kinxcdn.net
 kiook.com
@@ -5114,6 +5122,7 @@ mediamath.com
 mediameca.com
 media.npr.org
 mediaodyssey.com
+media.oranjepartners.com
 mediascale.de
 media-servers.net
 mediatat.com
@@ -6486,6 +6495,7 @@ oykz.com
 o--z.com
 ozfun.com
 ozzg.com
+p03.t.eloqua.com
 p17-buy.itunes.apple.com
 p17-buy.itunes-apple.com.akadns.net
 p18-buy.itunes.apple.com
@@ -6654,6 +6664,7 @@ pimpmyclicks.com
 pimproll.com
 piwik.aditu.de
 pixel.facebook.com
+pix-geo.revsci.net
 pizzaboxadvertisement.com
 pjfh.com
 pkhut.com
@@ -7199,11 +7210,15 @@ rzih.com
 rzik.com
 rzpz.com
 rzsu.com
+s01.tcuniverse.com
+s02.tcuniverse.com
 s03.tcuniverse.com
+s04.tcuniverse.com
 s10.whatsapp.net
 s1.googleusercontent.com
 s1.ry.m1r2.onet.pl
 s1.whatsapp.net
+s208914684.t.eloqua.com
 s2bprogram.com
 s2d6.com
 s2.googleusercontent.com
@@ -7748,6 +7763,7 @@ static-doubleclick-net.l.google.com
 static.gc.apple.com
 static.getclicky.com.cdn.cloudflare.net
 static.googleusercontent.com
+static.hotjar.netdna-cdn.com
 static.itrack.it
 static.n.shifen.com
 static-origin.plista.com
@@ -7800,6 +7816,7 @@ storagek.com
 storagel.com
 storagem.com
 storagep.com
+store-009-failover2.blobstore-apple.com.akadns.net
 store-023-failover2.blobstore-apple.com.akadns.net
 storw.com
 stqv.com
@@ -8110,6 +8127,7 @@ topsearcher.com
 top-site-list.com
 topsite.lv
 topsites.com.br
+topspin.npo.nl
 topstats.com
 toqg.com
 torqx.com
@@ -8383,6 +8401,7 @@ u-rep.com
 urge.com
 urlcash.net
 urls-real.api.twitter.com
+usage.readdle.com
 usapromotravel.com
 usbow.com
 usdet.com
