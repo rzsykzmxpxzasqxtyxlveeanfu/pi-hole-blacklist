@@ -2177,6 +2177,7 @@ clickxchange.com
 clickz.com
 clickzxc.com
 clicmanager.fr
+client-office365-tas.msedge.net
 clients1.google.com
 clients1.google.com
 clients1.google.com.hk
@@ -2280,6 +2281,7 @@ com.tn
 concepsa.com
 conceptsa.com
 condoetc.com
+config.edge.skype.com
 config.ngmoco.com
 configuration.apple.com
 configuration.apple.com.edgekey.net
@@ -2766,6 +2768,7 @@ dynamicsview.info
 dyne.allstar.cz
 dynssl.com
 dynwww.about.com
+e-0009.e-msedge.net
 e1038.a1.akamaiedge.net
 e10.whatsapp.net
 e11012.g.akamaiedge.net
@@ -6353,6 +6356,7 @@ oca.watson.data.microsoft.com.akadns.net
 occasionary.com
 o.cdn.gameplayer.io
 ocite.com
+ocos-office365-s2s.msedge.net
 ocsp.comodoca.com
 ocsp.usertrust.com
 od2.com
@@ -6407,6 +6411,7 @@ olcor.com
 olga.ns.cloudflare.com
 oloader.com
 olympictracking.com
+omextemplates.content.office.net
 omniroot.com
 omniture.com
 omtrdc.net
@@ -7252,6 +7257,7 @@ rzih.com
 rzik.com
 rzpz.com
 rzsu.com
+s-0001.s-msedge.net
 s01.tcuniverse.com
 s02.tcuniverse.com
 s03.tcuniverse.com
@@ -9089,6 +9095,7 @@ www.static.ak.fbcdn.net
 www.trainyard.ca
 www.underscore.se
 www.whatsapp.com
+www.xmissy.nl
 www.yfrog.com
 wxur.com
 w--y.com
