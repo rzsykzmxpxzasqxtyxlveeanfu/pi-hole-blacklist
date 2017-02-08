@@ -93,6 +93,7 @@
 4fjvqid3r3oq66t548clrdj52df15coc-a-oz-opensocial.googleusercontent.com
 4-ps.googleusercontent.com
 53rd6p0catml6vat6qra84rs0del836d-a-oz-opensocial.googleusercontent.com
+5990802.fls.doubleclick.net
 59cbv4l9s05pbaks9v77vc3mengeqors-a-oz-opensocial.googleusercontent.com
 5-courier.push.apple.com
 5.docs.google.com
@@ -130,6 +131,7 @@ a450.g1.akamai.net
 a4.mzstatic.com
 a5.mzstatic.com
 a968.g1.akamai.net
+aa.agkn.com
 a.admob.com
 aads1.net
 aads-cng.net
@@ -273,6 +275,7 @@ adnet.biz
 adnet.de
 adnetinteractive.com
 adnet-media.net
+adnetproject.eu
 adnet.ru
 adnetwork.net
 adnet.worldreviewer.com
@@ -1262,6 +1265,7 @@ affiliatewindow.com
 affiliation-france.com
 affili.net
 afxcdn.net
+ag.innovid.com
 ahalogy.com
 ah-ha.com
 ahoye.com
@@ -1319,6 +1323,7 @@ analysis123.com
 analytics.adpost.org
 analytics.live.com.nsatc.net
 analytics.localytics.com
+analytics.mobify.netdna-cdn.com
 andny.com
 android.clients.google.com
 android.com
@@ -1347,6 +1352,7 @@ api.configar.org
 api.dropbox.com
 api.facebook.com
 api.geo.deezer.com
+api-glb-ams.smoot.apple.com
 api.imu.nl
 api.instagram.com
 api.intensifier.de
@@ -1356,6 +1362,7 @@ api.openfeint.com
 api.photoshop.com
 api-read.facebook.com
 apis.google.com
+api.smoot.apple.com
 api.spilgames.com
 api.tweetmeme.com
 api.twitter.com
@@ -2334,6 +2341,7 @@ counter.mojgorod.ru
 counter.rambler.ru
 counter.search.bg
 counter.sparklit.com
+count.freeaudit.hu
 count.rbc.ru
 count.west263.com
 coupling-media.de
@@ -4403,6 +4411,8 @@ idcounter.com
 idealbeef.com
 ideawins-ppe.com
 identads.com
+identity.ess.apple.com
+identity.ess-apple.com.akadns.net
 id.google.cn
 id.google.com
 id.google.com.hk
@@ -4818,6 +4828,7 @@ kolll.com
 komoona.com
 kontera.com
 k--q.com
+kr.ixiaa.com
 kshutter.com
 ks.y-0.net
 ktu.sv2.biz
@@ -5206,6 +5217,7 @@ met.adwhirl.com
 metaffiliation.com
 metanetwork.com
 methodcash.com
+metric-proxy.brave.com
 metrics.kids.gynzy.com
 m.facebook.com
 m.facebook.com
@@ -7487,6 +7499,7 @@ settings-crashlytics-1410998606.us-east-1.elb.amazonaws.com
 settings-crashlytics-b-103974621.us-east-1.elb.amazonaws.com
 settings-sandbox.data.glbdns2.microsoft.com
 setup.icloud.com
+setup.icloud.com.akadns.net
 sexad.biz
 sexad.com
 sexaddpro.de
@@ -8505,6 +8518,7 @@ usdny.com
 useam.com
 us-east-1.blobstore.apple.com
 us-east-1.blobstore-apple.com.akadns.net
+usermatch.krxd.net
 userstream.twitter.com
 usess.com
 usexperimental.com
