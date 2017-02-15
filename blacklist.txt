@@ -1390,6 +1390,7 @@ apps.facebook.com
 apps.google.com
 app.shoppable.nl
 apps.id.net
+apps.kaloo.ga
 appspot.com
 appspot.l.google.com
 appspot.l.google.com
@@ -2382,6 +2383,7 @@ crior.com
 crispads.com
 criteo.com
 criticaload.com
+c.rmbl.ws
 crmlive-int.com
 crmlive.net
 crmliveperf.com
@@ -4648,6 +4650,7 @@ iqlt.com
 iqlx.com
 iqxi.com
 ireklama.cz
+i.rmbl.ws
 ironalliance.com
 ironu.com
 is1.mzstatic.com
@@ -7128,6 +7131,7 @@ reader.google.com
 readserver.net
 realcastmedia.com
 realtechnetwork.com
+realtimesupport.clients6.google.com
 realtracker.com
 realtydesktop.net
 realtyretail.com
@@ -8895,6 +8899,7 @@ wifi.google.com
 wifi.l.google.com
 wikxi.com
 will.ns.cloudflare.com
+wilson-catawiki-https-1449303559.eu-west-1.elb.amazonaws.com
 winaero.com
 wind8apps.com
 windonws.com.br
