@@ -2508,6 +2508,7 @@ dcisolation.com
 dclickads.com
 dcrack.com
 dc-storm.com
+dc.trafficmanager.net
 ddaffiliate.wpengine.com
 de17a.com
 deadd.com
@@ -5019,6 +5020,7 @@ llnwd.net
 lloyd.ns.cloudflare.com
 lm.facebook.com
 load.amexp.exelator.com
+loader.wisepops.com
 loading321.com
 loadlane.com
 loadstep.com
@@ -5104,6 +5106,8 @@ mailstem.com
 mailtoscan.com
 main-vip.ezzed.com
 majap.com
+manifest.53.localytics.com
+manifest.localytics.com
 manofmetal.com
 manofmetal.net
 map.google.com
@@ -5485,6 +5489,7 @@ mktw.net
 mlm.de
 mm.admob.com
 mme.whatsapp.net
+mmg.whatsapp.net
 mmi250.whatsapp.net
 mmi255.whatsapp.net
 mmi256.whatsapp.net
@@ -6277,6 +6282,7 @@ ngworldstats.com
 niefy.com
 nixnet.cz
 nkzv.com
+nl-gmtdmp.mookie1.com
 nloader.com
 nnvm.com
 nn-zz.com
@@ -7046,6 +7052,7 @@ q--u.com
 queev.com
 queryes.com
 questaffiliates.net
+queuer-prod-elb.53.localytics.com
 quickcash-system.com
 quickclickads.com
 quickezlegal.com
@@ -9111,6 +9118,7 @@ www.s-static.ak.facebook.com
 www.statcounter.com.cdnga.net
 www.static.ak.connect.facebook.com
 www.static.ak.fbcdn.net
+www.tamgrt.com
 www.trainyard.ca
 www.underscore.se
 www.whatsapp.com
