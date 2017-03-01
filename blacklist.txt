@@ -1972,6 +1972,7 @@ cbks3.google.com
 cbmall.com
 ccgslb.com
 cc-yy.com
+cdb.cbtrk.net
 cdn0.api.openfeint.com
 cdn1.api.openfeint.com
 cdn2.api.openfeint.com
@@ -7801,6 +7802,7 @@ spreadsheets.google.com
 spreadsheets.l.google.com
 spreadsheets-opensocial.googleusercontent.com
 spres.serverhome.com
+sprinkle-assets.s3.amazonaws.com
 sprinklercool.com
 sprinklerkool.com
 sp.symcb.com
@@ -8901,6 +8903,7 @@ whymicrosoft.com
 widespace.com
 widgetbucks.com
 widgets.getsitecontrol.com
+widgets.sprinklecontent.com
 wifiadvertisement.com
 wifi.google.com
 wifi.l.google.com
