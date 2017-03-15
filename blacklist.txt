@@ -79,6 +79,7 @@
 41-courier.push.apple.com
 42-courier.push.apple.com
 43-courier.push.apple.com
+4487826.fls.doubleclick.net
 44-courier.push.apple.com
 45-courier.push.apple.com
 466453.com
@@ -1354,7 +1355,6 @@ api.facebook.com
 api.geo.deezer.com
 api-glb-ams.smoot.apple.com
 api.imu.nl
-api.instagram.com
 api.intensifier.de
 api.mobilepicture.com
 api.npr.org
@@ -1757,7 +1757,6 @@ bks8.books.google.com
 bks9.books.google.com
 bkyes.com
 bkza.com
-black.ish.instagram.com
 blackpane.com
 blackwhitetc.com
 blasphema.com
@@ -4445,7 +4444,6 @@ ihooh.com
 i.huffpost.com
 iid.googleapis.com
 i.iinfo.cz
-i.instagram.com
 iisip.com
 ijamaican.com
 ijqs.com
@@ -4494,6 +4492,7 @@ img1.iol.it
 imgg-cdn.mgid.com
 img.prohardver.hu
 imonitor.mkt.cz
+imp.nowinteract.com
 imprese.cz
 impressionmedia.cz
 impressionz.co.uk
@@ -4550,7 +4549,6 @@ insnw.net
 inspectorclick.com
 instagram-604834045.us-east-1.elb.amazonaws.com
 instagram.c10r.facebook.com
-instagram.com
 instagram-shv-01-ams2.fbcdn.net
 instagram-shv-01-ams3.fbcdn.net
 instagram-shv-01-ash5.fbcdn.net
@@ -5033,7 +5031,6 @@ localhost.com
 localjabber.com
 loftf.com
 log.btopenworld.com
-logger.instagram.com
 logging.citrixonline.com
 log.gns.go.com
 logicadvertisement.com
@@ -5226,6 +5223,7 @@ metaffiliation.com
 metanetwork.com
 methodcash.com
 metric-proxy.brave.com
+metrics.fitanalytics.com
 metrics.kids.gynzy.com
 m.facebook.com
 m.facebook.com
@@ -6739,7 +6737,6 @@ placeadvertisement.com
 places.google.com
 plapo.com
 platform-eb.twitter.com
-platform.instagram.com
 platformiq-cdn.aquaplatform.com
 platformiq-del.aquaplatform.com
 platforms.nytimes.com
@@ -7409,13 +7406,11 @@ scontent-b-sjc.xx.fbcdn.net
 scontent-b-vie.xx.fbcdn.net
 scontent-b.xx.fbcdn.net
 scontent-cdg.xx.fbcdn.net
-scontent.cdninstagram.com
 scontent-dfw.xx.fbcdn.net
 scontent-fra.xx.fbcdn.net
 scontent.fsjc1-2.fna.fbcdn.net
 scontent.fsnc1-1.fna.fbcdn.net
 scontent-gru.xx.fbcdn.net
-scontent-iad3-1.cdninstagram.com
 scontent-iad3-1.xx.fbcdn.net
 scontent-lax3-1.xx.fbcdn.net
 scontent-lax.xx.fbcdn.net
@@ -8118,7 +8113,6 @@ tekmode.com
 tekvid.com
 tekzor.com
 telefront.com
-telegraph-ash.instagram.com
 teliad.de
 tellyads.com
 telnode.com
@@ -8875,7 +8869,6 @@ wheze.com
 whispa.com
 white-area.com
 whiteblacketc.com
-white.ish.instagram.com
 whitepace.com
 whitepain.com
 whitepan.com
@@ -9102,7 +9095,6 @@ www.gstatic.cn
 www.gstatic.com
 www.icloud.com
 www.idestroyapp.com
-www.instagram.com
 www-kix-opensocial.googleusercontent.com
 www.l.google.com
 www-live.com
