@@ -101,6 +101,7 @@
 5.drive.google.com
 5-edge-chat.facebook.com
 5-pct.channel.facebook.com
+6050209.fls.doubleclick.net
 6-courier.push.apple.com
 6.docs.google.com
 6.drive.google.com
@@ -940,6 +941,7 @@ advertisespace.com
 advertisingbox.com
 advertising.com
 advertising.guildlaunch.net
+advertising.oriel.io
 advertmarket.com
 advertmedia.de
 advertpro.ya.com
@@ -1317,6 +1319,7 @@ a.medialytics.com
 americanadvertisement.com
 amonsul.betssonpalantir.com
 ampter.com
+ams01.search.spotxchange.com
 ams1-mobile.adnxs.com
 a-msedge.net
 analr.com
@@ -2527,6 +2530,7 @@ deepmetrix.com
 default-homepage-network.com
 delawareadvertisement.com
 deliciouspork.com
+delivery.hyde.ligatus.com
 deloo.de
 demandbase.com
 demdex.com
@@ -8293,6 +8297,7 @@ track.anchorfree.com
 track.attributionapp.com
 track-eu.adformnet.akadns.net
 tracking101.com
+tracking.content-recommendation.net
 tracking.crunchiemedia.com
 tracking.gajmp.com
 tracking.internetstores.de
@@ -8477,6 +8482,7 @@ uosx.com
 upcuba.com
 upcuban.com
 updated.com
+updater.content-recommendation.net
 updek.com
 updx.com
 upexe.com
