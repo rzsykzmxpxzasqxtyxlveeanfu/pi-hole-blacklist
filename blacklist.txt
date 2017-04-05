@@ -1437,6 +1437,7 @@ assetpublic.com
 assetran.com
 assets1.exgfnetwork.com.sds.rncdn7.com
 assets-jpcust.jwpsrv.com
+assets.kaloo.ga
 assoc-amazon.com
 asswe.com
 at-adserver.alltop.com
@@ -8301,6 +8302,7 @@ tracking.content-recommendation.net
 tracking.crunchiemedia.com
 tracking.gajmp.com
 tracking.internetstores.de
+tracking.sanquin.nl
 trackingsoft.com
 tracking.yourfilehost.com
 trackism.com
