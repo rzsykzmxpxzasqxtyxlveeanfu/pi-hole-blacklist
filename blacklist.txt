@@ -2407,6 +2407,7 @@ cs77.wac.edgecastcdn.net
 cs9.wac.phicdn.net
 csi.gstatic.com
 csi.l.google.com
+css.rating-widget.com
 ct-m-fbx.fbsbx.com
 ctnetwork.hu
 cubaco-op.com
@@ -4496,6 +4497,7 @@ imarketservices.com
 img1.iol.it
 imgg-cdn.mgid.com
 img.prohardver.hu
+img.rating-widget.com
 imonitor.mkt.cz
 imp.nowinteract.com
 imprese.cz
@@ -4764,6 +4766,7 @@ joyanna.com
 jqvb.com
 jqve.com
 js.iterable.com
+js.rating-widget.com
 js.users.51.la
 jtqe.com
 juicyads.com
@@ -7625,6 +7628,7 @@ skylink.vn
 skypeassets.com
 skypeassets.net
 skype.com
+skype.geo.msnmessenger.msn.com.akadns.net
 skype.net
 sl1.symcb.com
 sleav.com
