@@ -1976,6 +1976,8 @@ cbmall.com
 ccgslb.com
 cc-yy.com
 cdb.cbtrk.net
+c.disquscdn.com
+c.disquscdn.com.cdn.cloudflare.net
 cdn0.api.openfeint.com
 cdn1.api.openfeint.com
 cdn2.api.openfeint.com
@@ -6681,6 +6683,7 @@ perfiliate.com
 performance-adserver.net
 performancerevenue.com
 performancerevenues.com
+performance.typekit.net
 performancing.com
 personal-1.com
 personaladvertisement.com
