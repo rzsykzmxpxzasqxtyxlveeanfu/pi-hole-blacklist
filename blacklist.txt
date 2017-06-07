@@ -6805,6 +6805,7 @@ pop6.com
 popadvert.com
 pop-eur-central-courier.push-apple.com.akadns.net
 pop-eur-uk-courier.push-apple.com.akadns.net
+poplyft.com
 poptang.com
 popub.com
 pop-under.ru
