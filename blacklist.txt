@@ -2002,6 +2002,7 @@ cdn.montiera.com
 cdn.msdwnld.com
 cdn.pushcrew.com
 cdn.sfr.net
+cdn.shopify.com
 cdnsun.net
 cdn.syndication.twimg.com
 cdntel.net
@@ -2237,6 +2238,7 @@ clownoutbreak.com
 clubadvertisement.com
 cluster.adultworld.com
 clustrmaps.com
+cl-w.netseer.com
 cmpstar.com
 cnomy.com
 cnt1.pocitadlo.cz
@@ -3665,6 +3667,7 @@ fi.google.com
 fijz.com
 filefetish.com
 filejunky.com
+files.acompli.net
 files.mmggames.com
 filetransferenabled.mail.google.com
 filmere.com
@@ -6905,6 +6908,7 @@ praddpro.de
 pradvertisement.com
 pradvertisements.com
 prchecker.info
+prd.col.aria.mobile.skypedata.akadns.net
 prd-web-lb-1414227991.eu-west-1.elb.amazonaws.com
 precisioncounter.com
 predictad.com
@@ -8391,6 +8395,7 @@ tribalright.com
 tribation.com
 triphuts.com
 trix.net
+trknx.com
 trk.pinterest.com
 troopcom.com
 troor.com
