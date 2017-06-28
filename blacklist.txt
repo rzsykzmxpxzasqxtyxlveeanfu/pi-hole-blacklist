@@ -5186,6 +5186,7 @@ medgenis.com
 media6degrees.com
 media-adrunner.mycomputer.com
 mediaarea.eu
+media.disquscdn.com
 mediadvertising.ro
 media.funpic.de
 mediageneral.com
@@ -6810,6 +6811,7 @@ pop-eur-central-courier.push-apple.com.akadns.net
 pop-eur-uk-courier.push-apple.com.akadns.net
 poplyft.com
 poptang.com
+pop-tln1-alpha.www.linkedin.com
 popub.com
 pop-under.ru
 popunder.ru
