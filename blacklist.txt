@@ -75,6 +75,7 @@
 3hdrrlnlknhi77nrmsjnjr152ueo3soc-a-calendar-opensocial.googleusercontent.com
 3-open-opensocial.googleusercontent.com
 3-ps.googleusercontent.com
+3qavsw4pweqaccmccjzaaaicd3bp77vhm53q.igsonar.com
 40-courier.push.apple.com
 41-courier.push.apple.com
 42-courier.push.apple.com
@@ -1933,6 +1934,7 @@ caniamedia.com
 canuck-method.com
 capitalchips.com
 capping.mgid.com
+captive.g.aaplimg.com
 caradvertisement.com
 caradvertisements.com
 carbonads.com
@@ -7890,6 +7892,7 @@ static-doubleclick-net.l.google.com
 static.gc.apple.com
 static.getclicky.com.cdn.cloudflare.net
 static.googleusercontent.com
+static.heavy-r.com
 static.hotjar.netdna-cdn.com
 static.itrack.it
 static.n.shifen.com
@@ -7925,6 +7928,8 @@ stats.wordpress.com
 stats.x14.eu
 stat.tudou.com
 status.forsoka.com
+status.icq.com
+status.ovip.icq.com
 stat.webmedia.pl
 statxpress.com
 stat.zenon.net
@@ -8091,6 +8096,7 @@ targad.de
 targetadvertisements.com
 targetedadvertisements.com
 targetingnow.com
+targeting.washpost.nile.works
 targetpoint.com
 taskmarket.com
 tasksystem.com
@@ -8549,6 +8555,7 @@ useam.com
 us-east-1.blobstore.apple.com
 us-east-1.blobstore-apple.com.akadns.net
 usermatch.krxd.net
+usersegment.wpdigital.net
 userstream.twitter.com
 usess.com
 usexperimental.com
@@ -9111,6 +9118,7 @@ www.google.com
 www.google.com.hk
 www.googlelabs.com
 www.googlesource.com
+www.googletagmanager.com
 www-googletagmanager.l.google.com
 www.googleusercontent.com
 www.graph.facebook.com
